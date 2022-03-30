@@ -8,3 +8,8 @@ INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1984-06-
 INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1966-01-31T00:00:00Z', 4, '777.777.777-77', 2000.00, 'Julio Tavares');
 INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1991-09-19T00:00:00Z', 1, '888.888.888-88', 2300.00, 'Antonio Cabral');
 INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1983-08-17T00:00:00Z', 2, '999.999.999-99', 2400.00, 'Clara Neves');  
+INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1982-05-12T00:00:00Z', 1, '123.456.789-10', 2300.00, 'Paula Moraes');
+INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1985-04-18T00:00:00Z', 3, '111.222.333-44', 2100.00, 'Vitorio Luiz');
+INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1969-03-31T00:00:00Z', 4, '555.666.777-88', 3000.00, 'Paulo Carvalho');
+INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1990-12-19T00:00:00Z', 1, '999.000.111-22', 2900.00, 'Gilda Maria');
+INSERT INTO tb_client(birth_date, children, cpf, income, name) VALUES ('1987-08-14T00:00:00Z', 2, '333.444.555-66', 2800.00, 'Roberta Siqueira');  
